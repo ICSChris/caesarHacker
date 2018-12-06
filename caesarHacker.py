@@ -30,3 +30,4 @@ for key in range(len(SYMBOLS)):
 		
 	# Display every possible decryption:
 	print('Key #%s: %s' % (key, translated))
+	
